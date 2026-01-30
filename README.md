@@ -54,7 +54,8 @@ The dataset contains employee-level HR data, including:
 <p align="center">
   <img src="dashboard_preview/Workforce Attrition Analysis Dashboard_page-0001.jpg" alt="dashboard_preview/Workforce Attrition Analysis Dashboard_page-0001.jpg" width="900"/>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 📊📈 Dashboard Features & Visuals:
 
 | Section                | Visual Type          | Description                                       |
