@@ -80,11 +80,12 @@ The dataset contains employee-level HR data, including:
 
 - 📂 [Dataset](https://drive.google.com/file/d/1hrtSF1Uyj7-Sw8BN-L_Ze2DwcBwjwbLt/view?usp=drive_link)
 - 📂 [Python](https://drive.google.com/file/d/12pJJeaV3p-WEpYQSb-Kr4UlN8CcRcguW/view?usp=drive_link)
-- 📂 [SQL]((https://drive.google.com/file/d/12FCC4AQ9ri40QbKzedfGDpnZTq_QtFfI/view?usp=drive_link)
+- 📂 [SQL](https://drive.google.com/file/d/12FCC4AQ9ri40QbKzedfGDpnZTq_QtFfI/view?usp=drive_link)
 - 📂 [PowerBI]([PowerBI/](https://drive.google.com/file/d/1XJtxGmHXm9-DI6Iqxc-N0QZVAolXxDE9/view?usp=drive_link))
 - 📂 [Images]([Images/](https://drive.google.com/file/d/1U3-_ohTqLbJYMQjuku3frXXrK9CUCWyU/view?usp=drive_link))
 - 📄 [README.md](README.md)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------🚀 How to Use
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀 How to Use
 - Clone or download the repository
 - Run the Python script/notebook to clean data and connect to MySQL
 - Execute SQL queries if required
