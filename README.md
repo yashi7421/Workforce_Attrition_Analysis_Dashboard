@@ -1,6 +1,6 @@
 **📊 Workforce Attrition Analysis Dashboard**
 
-📌 Project Overview:
+## 📌 Project Overview:
 - The Workforce Attrition Analysis Dashboard is an end-to-end HR analytics project focused on analyzing employee attrition and workforce demographics.
 - The project integrates Python, SQL (MySQL), and Power BI to clean, process, analyze, and visualize HR data for actionable business insights.
 
@@ -9,14 +9,14 @@ This dashboard helps organizations understand:
 - Which groups are most affected
 - Where retention strategies should be applied
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 Objectives:
+## 🎯 Objectives:
 - Analyze total attrition and attrition rate
 - Identify high-attrition departments and job roles
 - Study age-wise and gender-wise attrition trends
 - Evaluate the impact of education field on attrition
 - Build an interactive and professional HR dashboard
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠 Tools & Technologies Used:
+## 🛠 Tools & Technologies Used:
 
 | Category              | Tool / Technology            | Purpose                                               |
 | --------------------- | ---------------------------- | ----------------------------------------------------- |
@@ -28,7 +28,7 @@ This dashboard helps organizations understand:
 | Data Format           | **CSV**                      | Dataset storage and data exchange                     |
 | Version Control       | **Git & GitHub**             | Source code management and project hosting            |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📂 Dataset Description:
+## 📂 Dataset Description:
 
 The dataset contains employee-level HR data, including:
 - Age, Gender, Education
@@ -37,7 +37,7 @@ The dataset contains employee-level HR data, including:
 - Job Satisfaction ratings
 - Python was used to clean and prepare the dataset, and MySQL was used as the database source before loading the data into Power BI.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔄 Data Workflow:
+## 🔄 Data Workflow:
 
       Raw HR Data
            ↓
@@ -49,7 +49,14 @@ The dataset contains employee-level HR data, including:
            ↓
       Power BI Dashboard
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📊📈 Dashboard Features & Visuals:
+## Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_preview/Workforce Attrition Analysis Dashboard_page-0001" alt="Workforce Attrition Analysis Dashboard_page-0001" width="900"/>
+</p>
+\
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📊📈 Dashboard Features & Visuals:
 
 | Section                | Visual Type          | Description                                       |
 | ---------------------- | -------------------- | ------------------------------------------------- |
@@ -65,12 +72,12 @@ The dataset contains employee-level HR data, including:
 | Gender Analysis        | Donut Charts         | Gender-wise attrition across different age groups |
 | Filtering              | Slicers              | Education level-based filtering of visuals        |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎛 Filters & Interactivity: 
+## 🎛 Filters & Interactivity: 
 - Education Level slicers (Associate, Bachelor’s, Master’s, etc.)
 - Dynamic filtering across all visuals
 - Interactive exploration of attrition insights
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧠 Key Insights:
+## 🧠 Key Insights:
 - Attrition is higher among mid-career employees (25–44 age group)
 - Certain departments contribute more to overall attrition
 - Education background influences attrition patterns
@@ -85,19 +92,19 @@ The dataset contains employee-level HR data, including:
 - 📂 [Images]([Images/](https://drive.google.com/file/d/1U3-_ohTqLbJYMQjuku3frXXrK9CUCWyU/view?usp=drive_link))
 - 📄 [README.md](README.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 How to Use
+## 🚀 How to Use
 - Clone or download the repository
 - Run the Python script/notebook to clean data and connect to MySQL
 - Execute SQL queries if required
 - Open the .pbix file in Power BI Desktop
 - Explore the dashboard using slicers and visuals
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📌 Future Enhancements
+## 📌 Future Enhancements
 - Predictive attrition analysis using Machine Learning
 - Automated ETL pipeline
 - Department-wise retention recommendations
 - Live database integration
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⭐ Support
+## ⭐ Support
 If you find this project useful, please star ⭐ the repository.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
